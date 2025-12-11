@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smartlock/static/css/main.7be34679.css",
+    "main.js": "/smartlock/static/js/main.39d0ed03.js",
+    "index.html": "/smartlock/index.html",
+    "main.7be34679.css.map": "/smartlock/static/css/main.7be34679.css.map",
+    "main.39d0ed03.js.map": "/smartlock/static/js/main.39d0ed03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be34679.css",
+    "static/js/main.39d0ed03.js"
+  ]
+}
